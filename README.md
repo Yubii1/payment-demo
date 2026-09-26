@@ -2,7 +2,7 @@
 
 A static pricing/checkout page demoing a real **Paystack** payment integration — built to show clients how a live checkout flow feels, end to end, without needing a backend.
 
-🔗 **Live demo:** [https://your-project.vercel.app](https://your-project.vercel.app) <!-- 👉 replace with your real Vercel URL -->
+🔗 **Live demo:** [https://payment-demo-xi.vercel.app/]
 
 ![status](https://img.shields.io/badge/status-demo-blue) ![stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS-informational)
 
